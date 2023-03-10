@@ -62,3 +62,6 @@ address{
     top:50px;
     max-width: 70%;
 }
+[type='radio'] {
+    display: none;
+}
